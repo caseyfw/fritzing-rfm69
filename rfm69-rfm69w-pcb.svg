@@ -1,334 +1,232 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
+<?xml version="1.0" encoding="UTF-8"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="20.7mm"
-   height="16.2mm"
-   viewBox="0 0 20.7 16.2"
-   version="1.1"
-   id="svg8">
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  width="21.7mm"
+  height="16.2mm"
+  viewBox="0 0 21.7 16.2"
+  version="1.1"
+  id="svg8">
   <defs
-     id="defs2" />
+    id="defs2" />
   <g
-     id="silkscreen"
-     style="display:inline">
+    id="silkscreen">
     <path
       id="chip-outline"
       fill="white"
-      d="M 0.4 0 h 19.9 v 0.3 h -0.2 v -0.1 h -19.5 v 0.1 h -0.2 Z
-      M 0.4 1.9 h 0.2 v 0.4 h -0.2 Z
-      M 0.4 3.9 h 0.2 v 0.4 h -0.2 Z
-      M 0.4 5.9 h 0.2 v 0.4 h -0.2 Z
-      M 0.4 7.9 h 0.2 v 0.4 h -0.2 Z
-      M 0.4 9.9 h 0.2 v 0.4 h -0.2 Z
-      M 0.4 11.9 h 0.2 v 0.4 h -0.2 Z
-      M 0.4 13.9 h 0.2 v 0.4 h -0.2 Z
-      M 20.1 1.9 h 0.2 v 0.4 h -0.2 Z
-      M 20.1 3.9 h 0.2 v 0.4 h -0.2 Z
-      M 20.1 5.9 h 0.2 v 0.4 h -0.2 Z
-      M 20.1 7.9 h 0.2 v 0.4 h -0.2 Z
-      M 20.1 9.9 h 0.2 v 0.4 h -0.2 Z
-      M 20.1 11.9 h 0.2 v 0.4 h -0.2 Z
-      M 20.1 13.9 h 0.2 v 0.4 h -0.2 Z
-      M 0.4 15.9 h 0.2 v 0.1 h 19.5 v -0.1 h 0.2 v 0.3 h -19.9 Z">
+      d="M 0.9 0 h 19.9 v 0.3 h -0.2 v -0.1 h -19.5 v 0.1 h -0.2 Z M 0.9 1.9 h 0.2 v 0.4 h -0.2 Z M 0.9 3.9 h 0.2 v 0.4 h -0.2 Z M 0.9 5.9 h 0.2 v 0.4 h -0.2 Z M 0.9 7.9 h 0.2 v 0.4 h -0.2 Z M 0.9 9.9 h 0.2 v 0.4 h -0.2 Z M 0.9 11.9 h 0.2 v 0.4 h -0.2 Z M 0.9 13.9 h 0.2 v 0.4 h -0.2 Z M 20.6 1.9 h 0.2 v 0.4 h -0.2 Z M 20.6 3.9 h 0.2 v 0.4 h -0.2 Z  M 20.6 5.9 h 0.2 v 0.4 h -0.2 Z M 20.6 7.9 h 0.2 v 0.4 h -0.2 Z M 20.6 9.9 h 0.2 v 0.4 h -0.2 Z M 20.6 11.9 h 0.2 v 0.4 h -0.2 Z M 20.6 13.9 h 0.2 v 0.4 h -0.2 Z M 0.9 15.9 h 0.2 v 0.1 h 19.5 v -0.1 h 0.2 v 0.3 h -19.9 Z" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3.3886783"
-       y="1.6779368"
-       id="text1513"><tspan
-         sodipodi:role="line"
-         id="tspan1511"
-         x="3.3886783"
-         y="1.6779368"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;stroke-width:0.26458332">RESET</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:3px;writing-mode:tb"
+      text-anchor="middle"
+      x="11.2"
+      y="9"
+      id="label">RFM69W</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3.3886783"
-       y="3.6779673"
-       id="text1513-2"><tspan
-         sodipodi:role="line"
-         id="tspan1511-0"
-         x="3.3886783"
-         y="3.6779673"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;stroke-width:0.26458332">DIO0</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      x="3.5"
+      y="1.7"
+      id="pin1-label">RESET</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3.3886783"
-       y="5.6779366"
-       id="text1513-6"><tspan
-         sodipodi:role="line"
-         id="tspan1511-8"
-         x="3.3886783"
-         y="5.6779366"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;stroke-width:0.26458332">DIO1</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      x="3.5"
+      y="3.7"
+      id="pin2-label">DIO0</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3.3886783"
-       y="7.6779671"
-       id="text1513-2-9"><tspan
-         sodipodi:role="line"
-         id="tspan1511-0-2"
-         x="3.3886783"
-         y="7.6779671"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;stroke-width:0.26458332">DIO2</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      x="3.5"
+      y="5.7"
+      id="pin3-label">DIO1</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3.3886783"
-       y="9.6779366"
-       id="text1513-66"><tspan
-         sodipodi:role="line"
-         id="tspan1511-4"
-         x="3.3886783"
-         y="9.6779366"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;stroke-width:0.26458332">DIO3</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      x="3.5"
+      y="7.7"
+      id="pin4-label">DIO2</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3.3886783"
-       y="11.677967"
-       id="text1513-2-95"><tspan
-         sodipodi:role="line"
-         id="tspan1511-0-0"
-         x="3.3886783"
-         y="11.677967"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;stroke-width:0.26458332">DIO4</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      x="3.5"
+      y="9.7"
+      id="pin5-label">DIO3</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3.3886783"
-       y="13.677937"
-       id="text1513-6-4"><tspan
-         sodipodi:role="line"
-         id="tspan1511-8-8"
-         x="3.3886783"
-         y="13.677937"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;stroke-width:0.26458332">DIO5</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      x="3.5"
+      y="11.7"
+      id="pin6-label">DIO4</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3.3886783"
-       y="15.677967"
-       id="text1513-2-9-7"><tspan
-         sodipodi:role="line"
-         id="tspan1511-0-2-1"
-         x="3.3886783"
-         y="15.677967"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;stroke-width:0.26458332">3V3</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      x="3.5"
+      y="13.7"
+      id="pin7-label">DIO5</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.301409"
-       y="1.6779368"
-       id="text1513-7"><tspan
-         sodipodi:role="line"
-         id="tspan1511-2"
-         x="17.301409"
-         y="1.6779368"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332">NC</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      x="3.5"
+      y="15.7"
+      id="pin8-label">3V3</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.301409"
-       y="3.6779673"
-       id="text1513-7-7"><tspan
-         sodipodi:role="line"
-         id="tspan1511-2-7"
-         x="17.301409"
-         y="3.6779673"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332">NSS</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      text-anchor="end"
+      x="18.2"
+      y="15.7"
+      id="pin9-label">GND</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.301409"
-       y="5.6779366"
-       id="text1513-7-1"><tspan
-         sodipodi:role="line"
-         id="tspan1511-2-1"
-         x="17.301409"
-         y="5.6779366"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332">MOSI</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      text-anchor="end"
+      x="18.2"
+      y="13.7"
+      id="pin10-label">ANA</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.301409"
-       y="7.6779671"
-       id="text1513-7-7-5"><tspan
-         sodipodi:role="line"
-         id="tspan1511-2-7-9"
-         x="17.301409"
-         y="7.6779671"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332">MISO</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      text-anchor="end"
+      x="18.2"
+      y="11.7"
+      id="pin11-label">GND</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.301409"
-       y="9.6779366"
-       id="text1513-7-77"><tspan
-         sodipodi:role="line"
-         id="tspan1511-2-6"
-         x="17.301409"
-         y="9.6779366"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332">SCK</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      text-anchor="end"
+      x="18.2"
+      y="9.7"
+      id="pin12-label">SCK</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.301409"
-       y="11.677967"
-       id="text1513-7-7-7"><tspan
-         sodipodi:role="line"
-         id="tspan1511-2-7-3"
-         x="17.301409"
-         y="11.677967"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332">GND</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      text-anchor="end"
+      x="18.2"
+      y="7.7"
+      id="pin13-label">MISO</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.301409"
-       y="13.677937"
-       id="text1513-7-1-6"><tspan
-         sodipodi:role="line"
-         id="tspan1511-2-1-5"
-         x="17.301409"
-         y="13.677937"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332">ANA</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      text-anchor="end"
+      x="18.2"
+      y="5.7"
+      id="pin14-label">MOSI</text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.301409"
-       y="15.677967"
-       id="text1513-7-7-5-6"><tspan
-         sodipodi:role="line"
-         id="tspan1511-2-7-9-3"
-         x="17.301409"
-         y="15.677967"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58749998px;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.26458332">GND</tspan></text>
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      text-anchor="end"
+      x="18.2"
+      y="3.7"
+      id="pin15-label">NSS</text>
+    <text
+      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      text-anchor="end"
+      x="18.2"
+      y="1.7"
+      id="pin16-label">NC</text>
+    </path>
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="copper1"
-     inkscape:label="copper1"
-     style="display:inline">
+    id="copper1">
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395"
-       width="2.5"
-       height="1.2"
-       x="9.5367432e-07"
-       y="0.50000024" />
+      style="fill:#f7bd13"
+      id="pin1"
+      width="3"
+      height="1.2"
+      x="0"
+      y="0.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-7"
-       width="2.5"
-       height="1.2"
-       x="9.5367432e-07"
-       y="2.5000002" />
+      style="fill:#f7bd13"
+      id="pin2"
+      width="3"
+      height="1.2"
+      x="0"
+      y="2.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-4"
-       width="2.5"
-       height="1.2"
-       x="9.5367432e-07"
-       y="4.500001" />
+      style="fill:#f7bd13"
+      id="pin3"
+      width="3"
+      height="1.2"
+      x="0"
+      y="4.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-7-4"
-       width="2.5"
-       height="1.2"
-       x="9.5367432e-07"
-       y="6.500001" />
+      style="fill:#f7bd13"
+      id="pin4"
+      width="3"
+      height="1.2"
+      x="0"
+      y="6.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-3"
-       width="2.5"
-       height="1.2"
-       x="0"
-       y="8.500001" />
+      style="fill:#f7bd13"
+      id="pin5"
+      width="3"
+      height="1.2"
+      x="0"
+      y="8.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-7-0"
-       width="2.5"
-       height="1.2"
-       x="0"
-       y="10.500001" />
+      style="fill:#f7bd13"
+      id="pin6"
+      width="3"
+      height="1.2"
+      x="0"
+      y="10.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-4-7"
-       width="2.5"
-       height="1.2"
-       x="0"
-       y="12.500001" />
+      style="fill:#f7bd13"
+      id="pin7"
+      width="3"
+      height="1.2"
+      x="0"
+      y="12.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-7-4-8"
-       width="2.5"
-       height="1.2"
-       x="0"
-       y="14.500001" />
+      style="fill:#f7bd13"
+      id="pin8"
+      width="3"
+      height="1.2"
+      x="0"
+      y="14.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-6"
-       width="2.4999981"
-       height="1.2"
-       x="18.200005"
-       y="0.50000024" />
+      style="fill:#f7bd13"
+      id="pin9"
+      width="3"
+      height="1.2"
+      x="18.7"
+      y="14.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-7-8"
-       width="2.4999981"
-       height="1.2"
-       x="18.200005"
-       y="2.5000002" />
+      style="fill:#f7bd13"
+      id="pin10"
+      width="3"
+      height="1.2"
+      x="18.7"
+      y="12.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-4-8"
-       width="2.4999981"
-       height="1.2"
-       x="18.200005"
-       y="4.500001" />
+      style="fill:#f7bd13"
+      id="pin11"
+      width="3"
+      height="1.2"
+      x="18.7"
+      y="10.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-7-4-4"
-       width="2.4999981"
-       height="1.2"
-       x="18.200005"
-       y="6.500001" />
+      style="fill:#f7bd13"
+      id="pin12"
+      width="3"
+      height="1.2"
+      x="18.7"
+      y="8.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-3-3"
-       width="2.4999981"
-       height="1.2"
-       x="18.200001"
-       y="8.500001" />
+      style="fill:#f7bd13"
+      id="pin13"
+      width="3"
+      height="1.2"
+      x="18.7"
+      y="6.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-7-0-1"
-       width="2.4999981"
-       height="1.2"
-       x="18.200001"
-       y="10.500001" />
+      style="fill:#f7bd13"
+      id="pin14"
+      width="3"
+      height="1.2"
+      x="18.7"
+      y="4.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-4-7-4"
-       width="2.4999981"
-       height="1.2"
-       x="18.200001"
-       y="12.500001" />
+      style="fill:#f7bd13"
+      id="pin15"
+      width="3"
+      height="1.2"
+      x="18.7"
+      y="2.5" />
     <rect
-       style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1395-7-4-8-9"
-       width="2.4999981"
-       height="1.2"
-       x="18.200001"
-       y="14.500001" />
-  </g>
+      style="fill:#f7bd13"
+      id="pin16"
+      width="3"
+      height="1.2"
+      x="18.7"
+      y="0.5" />
+    </g>
 </svg>
