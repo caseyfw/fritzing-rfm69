@@ -1,114 +1,139 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="19.7mm"
-   height="16mm"
-   viewBox="0 0 19.7 16"
-   version="1.1"
-   id="svg8">
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  width="19.7mm"
+  height="16mm"
+  viewBox="0 0 19.7 16"
+  version="1.1"
+  id="svg8">
   <defs
-     id="defs2" />
+    id="defs">
+    <path
+      style="fill:#f7bd13"
+      d="M 0,0 v 0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 v 0.1 h 2 v -1.2 Z m 1.4,0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 Z"
+      id="left-pin" />
+    <path
+      style="fill:#f7bd13"
+      d="M 0,0  v 0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 v 0.1 h -2 v -1.2 Z m -1.4,0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 Z"
+      id="right-pin" />
+  </defs>
   <g
-     id="breadboard">
+    id="breadboard">
     <path
-       style="fill:#1f7a34"
-       d="M 0,0 v 0.4 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.4 h 19.7 v -0.4 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.4 Z"
-       id="pcb" />
-    <path
-       style="fill:#f7bd13"
-       d="M 0,0.4 v 0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 v 0.1 h 2 v -1.2 Z m 1.4,0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 Z"
-       id="pin1" />
-    <path
-       style="fill:#f7bd13"
-       d="M 0,2.4 v 0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 v 0.1 h 2 v -1.2 Z m 1.4,0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 Z"
-       id="pin2" />
-    <path
-       style="fill:#f7bd13"
-       d="M 0,4.4 v 0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 v 0.1 h 2 v -1.2 Z m 1.4,0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 Z"
-       id="pin3" />
-    <path
-       style="fill:#f7bd13"
-       d="M 0,6.4 v 0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 v 0.1 h 2 v -1.2 Z m 1.4,0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 Z"
-       id="pin4" />
-    <path
-       style="fill:#f7bd13"
-       d="M 0,8.4 v 0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 v 0.1 h 2 v -1.2 Z m 1.4,0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 Z"
-       id="pin5" />
-    <path
-       style="fill:#f7bd13"
-       d="M 0,10.4 v 0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 v 0.1 h 2 v -1.2 Z m 1.4,0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 Z"
-       id="pin6" />
-    <path
-       style="fill:#f7bd13"
-       d="M 0,12.4 v 0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 v 0.1 h 2 v -1.2 Z m 1.4,0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 Z"
-       id="pin7" />
-    <path
-       style="fill:#f7bd13"
-       d="M 0,14.4 v 0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 v 0.1 h 2 v -1.2 Z m 1.4,0.1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 Z"
-       id="pin8" />
-    <path
-       style="fill:#f7bd13"
-       d="M 19.7,14.4 v 0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 v 0.1 h -2 v -1.2 Z m -1.4,0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 Z"
-       id="pin9" />
-    <path
-       style="fill:#f7bd13"
-       d="M 19.7,12.4 v 0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 v 0.1 h -2 v -1.2 Z m -1.4,0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 Z"
-       id="pin10" />
-    <path
-       style="fill:#f7bd13"
-       d="M 19.7,10.4 v 0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 v 0.1 h -2 v -1.2 Z m -1.4,0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 Z"
-       id="pin11" />
-    <path
-       style="fill:#f7bd13"
-       d="M 19.7,8.4 v 0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 v 0.1 h -2 v -1.2 Z m -1.4,0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 Z"
-       id="pin12" />
-    <path
-       style="fill:#f7bd13"
-       d="M 19.7,6.4 V 6.5 A 0.5,0.5 0 0 0 19.2,7 0.5,0.5 0 0 0 19.7,7.5 V 7.6 h -2 V 6.4 Z M 18.3,6.5 A 0.5,0.5 0 0 0 17.8,7 0.5,0.5 0 0 0 18.3,7.5 0.5,0.5 0 0 0 18.8,7 0.5,0.5 0 0 0 18.3,6.5 Z"
-       id="pin13" />
-    <path
-       style="fill:#f7bd13"
-       d="M 19.7,4.4 v 0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 v 0.1 h -2 v -1.2 Z m -1.4,0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 Z"
-       id="pin14" />
-    <path
-       style="fill:#f7bd13"
-       d="M 19.7,2.4 v 0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 v 0.1 h -2 v -1.2 Z m -1.4,0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 Z"
-       id="pin15" />
-    <path
-       style="fill:#f7bd13"
-       d="M 19.7,0.4 v 0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 v 0.1 h -2 v -1.2 Z m -1.4,0.1 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 Z"
-       id="pin16" />
+      style="fill:#1f7a34"
+      d="M 0,0 v 0.4 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.8 h 2 v 1.2 h -2 v 0.4 h 19.7 v -0.4 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.8 h -2 v -1.2 h 2 v -0.4 Z"
+      id="pcb" />
+    <use
+      xlink:href="#left-pin"
+      x=0
+      y=0.4
+      id="pin1" />
+    <use
+      xlink:href="#left-pin"
+      x=0
+      y=2.4
+      id="pin2" />
+    <use
+      xlink:href="#left-pin"
+      x=0
+      y=4.4
+      id="pin3" />
+    <use
+      xlink:href="#left-pin"
+      x=0
+      y=6.4
+      id="pin4" />
+    <use
+      xlink:href="#left-pin"
+      x=0
+      y=8.4
+      id="pin5" />
+    <use
+      xlink:href="#left-pin"
+      x=0
+      y=10.4
+      id="pin6" />
+    <use
+      xlink:href="#left-pin"
+      x=0
+      y=12.4
+      id="pin7" />
+    <use
+      xlink:href="#left-pin"
+      x=0
+      y=14.4
+      id="pin8" />
+    <use
+      xlink:href="#right-pin"
+      x=19.7
+      y=14.4
+      id="pin9" />
+    <use
+      xlink:href="#right-pin"
+      x=19.7
+      y=12.4
+      id="pin10" />
+    <use
+      xlink:href="#right-pin"
+      x=19.7
+      y=10.4
+      id="pin11" />
+    <use
+      xlink:href="#right-pin"
+      x=19.7
+      y=8.4
+      id="pin12" />
+    <use
+      xlink:href="#right-pin"
+      x=19.7
+      y=6.4
+      id="pin13" />
+    <use
+      xlink:href="#right-pin"
+      x=19.7
+      y=4.4
+      id="pin14" />
+    <use
+      xlink:href="#right-pin"
+      x=19.7
+      y=2.4
+      id="pin15" />
+    <use
+      xlink:href="#right-pin"
+      x=19.7
+      y=0.4
+      id="pin16" />
     <rect
-       style="fill:#000000"
-       id="ic"
-       width="5"
-       height="5"
-       x="4"
-       y="8" />
+      style="fill:#000000"
+      id="ic"
+      width="5"
+      height="5"
+      x="4"
+      y="8" />
     <rect
-       style="fill:#cccccc;stroke:#f7bd13;stroke-width:0.15;stroke-linejoin:bevel"
-       id="clock"
-       width="2.5"
-       height="3"
-       x="8.5"
-       y="2" />
+      style="fill:#cccccc;stroke:#f7bd13;stroke-width:0.15;stroke-linejoin:bevel"
+      id="clock"
+      width="2.5"
+      height="3"
+      x="8.5"
+      y="2" />
     <rect
-       style="fill:#f7bd13"
-       id="left-antenna-pad"
-       width="4"
-       height="1.25"
-       x="3"
-       y="2" />
+      style="fill:#f7bd13"
+      id="left-antenna-pad"
+      width="4"
+      height="1.25"
+      x="3"
+      y="2" />
     <rect
-       style="fill:#f7bd13"
-       id="right-antenna-pad"
-       width="4"
-       height="1.25"
-       x="12"
-       y="2" />
+      style="fill:#f7bd13"
+      id="right-antenna-pad"
+      width="4"
+      height="1.25"
+      x="12"
+      y="2" />
   </g>
 </svg>
