@@ -14,14 +14,17 @@
     id="silkscreen">
     <path
       id="chip-outline"
-      fill="white"
+      stroke="none"
+      fill="#ffffff"
       d="M 0.9 0 h 19.9 v 0.3 h -0.2 v -0.1 h -19.5 v 0.1 h -0.2 Z M 0.9 1.9 h 0.2 v 0.4 h -0.2 Z M 0.9 3.9 h 0.2 v 0.4 h -0.2 Z M 0.9 5.9 h 0.2 v 0.4 h -0.2 Z M 0.9 7.9 h 0.2 v 0.4 h -0.2 Z M 0.9 9.9 h 0.2 v 0.4 h -0.2 Z M 0.9 11.9 h 0.2 v 0.4 h -0.2 Z M 0.9 13.9 h 0.2 v 0.4 h -0.2 Z M 20.6 1.9 h 0.2 v 0.4 h -0.2 Z M 20.6 3.9 h 0.2 v 0.4 h -0.2 Z  M 20.6 5.9 h 0.2 v 0.4 h -0.2 Z M 20.6 7.9 h 0.2 v 0.4 h -0.2 Z M 20.6 9.9 h 0.2 v 0.4 h -0.2 Z M 20.6 11.9 h 0.2 v 0.4 h -0.2 Z M 20.6 13.9 h 0.2 v 0.4 h -0.2 Z M 0.9 15.9 h 0.2 v 0.1 h 19.5 v -0.1 h 0.2 v 0.3 h -19.9 Z" />
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:3px;writing-mode:tb"
+      id="part-label"
+      transform="rotate(90, 11, 8)"
+      style="fill:#ffffff;font-family:OCRA;font-size:3px"
       text-anchor="middle"
       x="11.2"
       y="9"
-      id="label">RFM69W</text>
+      >RFM69W</text>
     <text
       style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
       x="3.5"
@@ -110,13 +113,13 @@
       x="18.2"
       y="1.7"
       id="pin16-label">NC</text>
-    </path>
   </g>
   <g
     id="copper1">
     <rect
       style="fill:#f7bd13"
       id="pin1"
+      stroke="none"
       width="3"
       height="1.2"
       x="0"
@@ -124,6 +127,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin2"
+      stroke="none"
       width="3"
       height="1.2"
       x="0"
@@ -131,6 +135,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin3"
+      stroke="none"
       width="3"
       height="1.2"
       x="0"
@@ -138,6 +143,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin4"
+      stroke="none"
       width="3"
       height="1.2"
       x="0"
@@ -145,6 +151,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin5"
+      stroke="none"
       width="3"
       height="1.2"
       x="0"
@@ -152,6 +159,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin6"
+      stroke="none"
       width="3"
       height="1.2"
       x="0"
@@ -159,6 +167,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin7"
+      stroke="none"
       width="3"
       height="1.2"
       x="0"
@@ -166,6 +175,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin8"
+      stroke="none"
       width="3"
       height="1.2"
       x="0"
@@ -173,6 +183,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin9"
+      stroke="none"
       width="3"
       height="1.2"
       x="18.7"
@@ -180,6 +191,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin10"
+      stroke="none"
       width="3"
       height="1.2"
       x="18.7"
@@ -187,6 +199,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin11"
+      stroke="none"
       width="3"
       height="1.2"
       x="18.7"
@@ -194,6 +207,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin12"
+      stroke="none"
       width="3"
       height="1.2"
       x="18.7"
@@ -201,6 +215,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin13"
+      stroke="none"
       width="3"
       height="1.2"
       x="18.7"
@@ -208,6 +223,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin14"
+      stroke="none"
       width="3"
       height="1.2"
       x="18.7"
@@ -215,6 +231,7 @@
     <rect
       style="fill:#f7bd13"
       id="pin15"
+      stroke="none"
       width="3"
       height="1.2"
       x="18.7"
@@ -222,9 +239,10 @@
     <rect
       style="fill:#f7bd13"
       id="pin16"
+      stroke="none"
       width="3"
       height="1.2"
       x="18.7"
       y="0.5" />
-    </g>
+  </g>
 </svg>
