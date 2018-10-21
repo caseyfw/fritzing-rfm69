@@ -5,111 +5,128 @@
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:svg="http://www.w3.org/2000/svg"
   xmlns="http://www.w3.org/2000/svg"
+  version="1.2"
   width="21.7mm"
   height="16.2mm"
   viewBox="0 0 21.7 16.2"
-  version="1.1"
-  id="svg8">
+  id="svg">
   <g
     id="silkscreen">
     <path
-      id="chip-outline"
-      stroke="none"
       fill="#ffffff"
-      d="M 0.9 0 h 19.9 v 0.3 h -0.2 v -0.1 h -19.5 v 0.1 h -0.2 Z M 0.9 1.9 h 0.2 v 0.4 h -0.2 Z M 0.9 3.9 h 0.2 v 0.4 h -0.2 Z M 0.9 5.9 h 0.2 v 0.4 h -0.2 Z M 0.9 7.9 h 0.2 v 0.4 h -0.2 Z M 0.9 9.9 h 0.2 v 0.4 h -0.2 Z M 0.9 11.9 h 0.2 v 0.4 h -0.2 Z M 0.9 13.9 h 0.2 v 0.4 h -0.2 Z M 20.6 1.9 h 0.2 v 0.4 h -0.2 Z M 20.6 3.9 h 0.2 v 0.4 h -0.2 Z  M 20.6 5.9 h 0.2 v 0.4 h -0.2 Z M 20.6 7.9 h 0.2 v 0.4 h -0.2 Z M 20.6 9.9 h 0.2 v 0.4 h -0.2 Z M 20.6 11.9 h 0.2 v 0.4 h -0.2 Z M 20.6 13.9 h 0.2 v 0.4 h -0.2 Z M 0.9 15.9 h 0.2 v 0.1 h 19.5 v -0.1 h 0.2 v 0.3 h -19.9 Z" />
+      stroke="none"
+      d="M 0.9 0 h 19.9 v 0.3 h -0.2 v -0.1 h -19.5 v 0.1 h -0.2 Z M 0.9 1.9 h 0.2 v 0.4 h -0.2 Z M 0.9 3.9 h 0.2 v 0.4 h -0.2 Z M 0.9 5.9 h 0.2 v 0.4 h -0.2 Z M 0.9 7.9 h 0.2 v 0.4 h -0.2 Z M 0.9 9.9 h 0.2 v 0.4 h -0.2 Z M 0.9 11.9 h 0.2 v 0.4 h -0.2 Z M 0.9 13.9 h 0.2 v 0.4 h -0.2 Z M 20.6 1.9 h 0.2 v 0.4 h -0.2 Z M 20.6 3.9 h 0.2 v 0.4 h -0.2 Z  M 20.6 5.9 h 0.2 v 0.4 h -0.2 Z M 20.6 7.9 h 0.2 v 0.4 h -0.2 Z M 20.6 9.9 h 0.2 v 0.4 h -0.2 Z M 20.6 11.9 h 0.2 v 0.4 h -0.2 Z M 20.6 13.9 h 0.2 v 0.4 h -0.2 Z M 0.9 15.9 h 0.2 v 0.1 h 19.5 v -0.1 h 0.2 v 0.3 h -19.9 Z"
+      id="chip-outline" />
     <text
-      id="part-label"
-      transform="rotate(90, 11, 8)"
-      style="fill:#ffffff;font-family:OCRA;font-size:3px"
+      fill="#ffffff"
+      font-family="OCRA"
       text-anchor="middle"
+      font-size="3px"
       x="11.2"
       y="9"
-      >RFM69W</text>
+      transform="rotate(90, 11, 8)"
+      id="part-label">RFM69W</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
+      font-size="1.6px"
       x="3.5"
       y="1.7"
       id="pin1-label">RESET</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
+      font-size="1.6px"
       x="3.5"
       y="3.7"
       id="pin2-label">DIO0</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
+      font-size="1.6px"
       x="3.5"
       y="5.7"
       id="pin3-label">DIO1</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
+      font-size="1.6px"
       x="3.5"
       y="7.7"
       id="pin4-label">DIO2</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
+      font-size="1.6px"
       x="3.5"
       y="9.7"
       id="pin5-label">DIO3</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
+      font-size="1.6px"
       x="3.5"
       y="11.7"
       id="pin6-label">DIO4</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
+      font-size="1.6px"
       x="3.5"
       y="13.7"
       id="pin7-label">DIO5</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
+      font-size="1.6px"
       x="3.5"
       y="15.7"
       id="pin8-label">3V3</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
       text-anchor="end"
+      font-size="1.6px"
       x="18.2"
       y="15.7"
       id="pin9-label">GND</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
       text-anchor="end"
+      font-size="1.6px"
       x="18.2"
       y="13.7"
       id="pin10-label">ANA</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
       text-anchor="end"
+      font-size="1.6px"
       x="18.2"
       y="11.7"
       id="pin11-label">GND</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
       text-anchor="end"
+      font-size="1.6px"
       x="18.2"
       y="9.7"
       id="pin12-label">SCK</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
       text-anchor="end"
+      font-size="1.6px"
       x="18.2"
       y="7.7"
       id="pin13-label">MISO</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
       text-anchor="end"
+      font-size="1.6px"
       x="18.2"
       y="5.7"
       id="pin14-label">MOSI</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
       text-anchor="end"
+      font-size="1.6px"
       x="18.2"
       y="3.7"
       id="pin15-label">NSS</text>
     <text
-      style="fill:#ffffff;font-family:OCRA;font-size:1.6px"
+      font-family="OCRA"
       text-anchor="end"
+      font-size="1.6px"
       x="18.2"
       y="1.7"
       id="pin16-label">NC</text>
@@ -117,132 +134,132 @@
   <g
     id="copper1">
     <rect
-      style="fill:#f7bd13"
-      id="pin1"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="0"
-      y="0.5" />
+      y="0.5"
+      id="pin1" />
     <rect
-      style="fill:#f7bd13"
-      id="pin2"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="0"
-      y="2.5" />
+      y="2.5"
+      id="pin2" />
     <rect
-      style="fill:#f7bd13"
-      id="pin3"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="0"
-      y="4.5" />
+      y="4.5"
+      id="pin3" />
     <rect
-      style="fill:#f7bd13"
-      id="pin4"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="0"
-      y="6.5" />
+      y="6.5"
+      id="pin4" />
     <rect
-      style="fill:#f7bd13"
-      id="pin5"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="0"
-      y="8.5" />
+      y="8.5"
+      id="pin5" />
     <rect
-      style="fill:#f7bd13"
-      id="pin6"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="0"
-      y="10.5" />
+      y="10.5"
+      id="pin6" />
     <rect
-      style="fill:#f7bd13"
-      id="pin7"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="0"
-      y="12.5" />
+      y="12.5"
+      id="pin7" />
     <rect
-      style="fill:#f7bd13"
-      id="pin8"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="0"
-      y="14.5" />
+      y="14.5"
+      id="pin8" />
     <rect
-      style="fill:#f7bd13"
-      id="pin9"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="18.7"
-      y="14.5" />
+      y="14.5"
+      id="pin9" />
     <rect
-      style="fill:#f7bd13"
-      id="pin10"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="18.7"
-      y="12.5" />
+      y="12.5"
+      id="pin10" />
     <rect
-      style="fill:#f7bd13"
-      id="pin11"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="18.7"
-      y="10.5" />
+      y="10.5"
+      id="pin11" />
     <rect
-      style="fill:#f7bd13"
-      id="pin12"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="18.7"
-      y="8.5" />
+      y="8.5"
+      id="pin12" />
     <rect
-      style="fill:#f7bd13"
-      id="pin13"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="18.7"
-      y="6.5" />
+      y="6.5"
+      id="pin13" />
     <rect
-      style="fill:#f7bd13"
-      id="pin14"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="18.7"
-      y="4.5" />
+      y="4.5"
+      id="pin14" />
     <rect
-      style="fill:#f7bd13"
-      id="pin15"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="18.7"
-      y="2.5" />
+      y="2.5"
+      id="pin15" />
     <rect
-      style="fill:#f7bd13"
-      id="pin16"
+      fill="#f7bd13"
       stroke="none"
       width="3"
       height="1.2"
       x="18.7"
-      y="0.5" />
+      y="0.5"
+      id="pin16" />
   </g>
 </svg>
